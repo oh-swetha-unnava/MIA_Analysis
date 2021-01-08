@@ -29,6 +29,19 @@ The base plan for the analysis can be found in the below linked google doc.
 
 https://docs.google.com/document/d/1cxofRfHKKAbO65cbKVgolOmNgUaTMq25VazYVy4vPpI/edit
 
+## Data Cleanup and Feature Engineering
+
+* Flagging if a device ia a MIA or a Non MIA device
+* One hot encoding all categorical variables i.e., software version, SKU, model numbers etc.,
+* Bucketing and flagging Free space percentage over the 6 months timeframe
+* Removing one of the one-hot encoded categorical columns to avoid dummy variable trap
+* Normalizing any numerical variables
+* Ensuring each device has only one record 
+* Dropping columns with zero or close to zero variance
+* Dropping columns having data for only either MIA or Non MIA devices
+* Random Sampling ( Up/down sampling) Control cohort (NON MIA devices) data according to the test cohort (MIA Devices) sample size
+* Splitting the data into Train/Test/Validation (60/20/20) Cohorts and save the data into .csv files for any further iterations.
+
 ## Folder Description
 
 - **Wallboard**: Folder contains all ipynb files and .csv files 
