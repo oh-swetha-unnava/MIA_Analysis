@@ -33,6 +33,6 @@ https://docs.google.com/document/d/1cxofRfHKKAbO65cbKVgolOmNgUaTMq25VazYVy4vPpI/
 
 - **Wallboard**: Folder contains all ipynb files and .csv files 
   - **JupyterNotebooks**: Folder contains all ipynb files
-    -- _Wallboard_dataprep.ipynb_ : Contains python code for data clean up and feature engin such as one-hot encoding, normalization, train/test/validation split
+    - Wallboard_dataprep.ipynb : Contains python code for data clean up and feature engin such as one-hot encoding, normalization, train/test/validation split
   
   - **Treasure_Data_Variables**: Folder contains .csv files of activity and wallboard interaction variables created in Treasure data  
