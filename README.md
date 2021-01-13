@@ -42,10 +42,19 @@ https://docs.google.com/document/d/1cxofRfHKKAbO65cbKVgolOmNgUaTMq25VazYVy4vPpI/
 * Random Sampling ( Up/down sampling) Control cohort (NON MIA devices) data according to the test cohort (MIA Devices) sample size
 * Splitting the data into Train/Test/Validation (60/20/20) Cohorts and save the data into .csv files for any further iterations.
 
+## Baseline Modeling
+
+* Removing columns with zero or close to zero variance
+* Run k fold cross validation to determine more balanced baseline models
+* Create initial models of Logistic, SVM, Decision Tree, Random Forest
+* Plot AUC and other metrics i.e., accuracy, confusion matrix
+* List out the feature importances of all the features 
+
 ## Folder Description
 
 - **Wallboard**: Folder contains all ipynb files and .csv files 
+  - **Treasure_Data_Variables**: Folder contains .csv files of activity and wallboard interaction variables created in Treasure data 
   - **JupyterNotebooks**: Folder contains all ipynb files
     - **Wallboard_dataprep.ipynb** : Contains python code for data clean up and feature engin such as one-hot encoding, normalization, train/test/validation split
-  
-  - **Treasure_Data_Variables**: Folder contains .csv files of activity and wallboard interaction variables created in Treasure data  
+    - **Baseline Models.ipynb** : Contains python Code for 5 fold cv and hyperparameter tuned models ( Logistic, SVM, Decision Tree, Random Forest ) 
+  - **Modeling Results**: Folder contains saved models (.sav files) and feature importances/co efficients  of the models in (.csv files)
