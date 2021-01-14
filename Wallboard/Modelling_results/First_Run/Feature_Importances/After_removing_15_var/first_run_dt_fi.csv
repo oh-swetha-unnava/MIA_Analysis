@@ -1,0 +1,330 @@
+,feature,importance
+0,software_version_4.9.16,0.6689295931067145
+1,software_version_4.9.17,0.10495926765063852
+2,software_version_4.10.2,0.07151312340541406
+3,software_version_4.7.7,0.06324775428965855
+4,manufacturer_OUTFORM,0.022030619051841057
+5,avg_days,0.011630747346393949
+6,model_UIT232B-W01,0.009539361881317978
+7,fs_pct_0.0261_0.0613,0.009501219065996692
+8,nov_avg_timeout_sessions,0.0036439582180427675
+9,JUL_avg_video_dispalys,0.003434108802968353
+10,model_P-WAL-107-ELC-03,0.0034088786088753704
+11,manufacturer_ELC,0.003375742189434239
+12,manufacturer_YITOA,0.0032286342786793424
+13,NOV_avg_video_dispaly,0.002651587416627075
+14,fs_pct_0.024_0.0245,0.002638007266404523
+15,jun_avg_timeout_sessions,0.0023739173865874093
+16,OCT_avg_video_duration,0.0022099783789633087
+17,OCT_avg_video_dispalys,0.0021318258180749775
+18,avg_times,0.0020383336781660557
+19,fs_pct_0.0245_0.0249,0.0013287368625192837
+20,JUNE_avg_video_duration,0.0012259125193099637
+21,jul_avg_exit_sessions,0.0010178378494526087
+22,AUG_avg_video_dispalys,0.0007322980516943251
+23,ranking_8.0,0.0006939115744155839
+24,Prostate Brachytherapy,0.0005785617354562969
+25,jul_avg_timeout_sessions,0.0004409201378429843
+26,aug_avg_timeout_sessions,0.00032573401747623936
+27,fs_pct_0.0196_0.0239,0.0002976867575231106
+28,Head,0.0001421680011061213
+29,specialty_Cardiovascular Disease,0.00011585905329298289
+30,Large Intestine Cross Section,0.0001147241685193633
+31,avg_campaigns,0.00011152275774240212
+32,Vasculature,9.285656500546454e-05
+33,Thorax,9.26753459275926e-05
+34,Gout,7.659148029972328e-05
+35,SEPT_avg_video_duration,5.399527420727574e-05
+36,Hiatal Hernia,3.771054040872529e-05
+37,sept_avg_timeout_sessions,2.1366739295693432e-05
+38,fs_pct_0.0249_0.0257,1.2272727705477412e-05
+39,model_P-WAL-106-ELC-01,0.0
+40,sku_P-WAL-105-OUT-01,0.0
+41,state_Florida,0.0
+42,state_Texas,0.0
+43,facility_type_Private Group,0.0
+44,facility_type_Private Practice,0.0
+45,ranking_5.0,0.0
+46,ranking_6.0,0.0
+47,ranking_7.0,0.0
+48,ranking_9.0,0.0
+49,ranking_10.0,0.0
+50,specialty_PCP,0.0
+51,fs_pct_0.0239_0.024,0.0
+52,fs_pct_0.0257_0.0261,0.0
+53,fs_pct_0.0613_0.0661,0.0
+54,fs_pct_0.0661_0.0672,0.0
+55,JUNE_avg_video_dispalys,0.0
+56,SEPT_avg_video_dispalys,0.0
+57,jun_avg_Crash_sessions,0.0
+58,jun_avg_exit_sessions,0.0
+59,jul_avg_Crash_sessions,0.0
+60,aug_avg_Crash_sessions,0.0
+61,aug_avg_exit_sessions,0.0
+62,sept_avg_Crash_sessions,0.0
+63,sept_avg_exit_sessions,0.0
+64,oct_avg_timeout_sessions,0.0
+65,oct_avg_Crash_sessions,0.0
+66,oct_avg_exit_sessions,0.0
+67,nov_avg_Crash_sessions,0.0
+68,nov_avg_exit_sessions,0.0
+69,ABCDE Moles,0.0
+70,ADHD,0.0
+71,ALS,0.0
+72,Abdomen,0.0
+73,Acid Reflux,0.0
+74,Acne,0.0
+75,Acne Detailed,0.0
+76,Acute Bronchitis,0.0
+77,Adam Insulin ,0.0
+78,Advanced Atherosclerosis,0.0
+79,Allergic Rhinitis,0.0
+80,Alzheimer's Disease,0.0
+81,Anal Fissure,0.0
+82,Angina,0.0
+83,Ankylosing Spondylitis,0.0
+84,Aortic Dissection,0.0
+85,Aortic Valve Stenosis,0.0
+86,Aplastic Anemia,0.0
+87,Appendicitis,0.0
+88,Arm,0.0
+89,Artery Blockage,0.0
+90,Asthma Inhaler,0.0
+91,Asthmatic Airway,0.0
+92,Asthmatic Airways,0.0
+93,Astigmatism,0.0
+94,Atelectasis,0.0
+95,Atherosclerosis,0.0
+96,Atrial Fibrillation,0.0
+97,Atrial Fibrillation with Conduction System,0.0
+98,BPH,0.0
+99,Back Pain,0.0
+100,Barrett's Esophagus,0.0
+101,Basal Cell Carcinoma,0.0
+102,Basal Cell Carcinoma (Gross),0.0
+103,Bladder,0.0
+104,Bladder Cancer,0.0
+105,Blister,0.0
+106,Blood Clot in Vein,0.0
+107,Brain,0.0
+108,Breast,0.0
+109,Breast Cancer,0.0
+110,Bronchitis,0.0
+111,C-Section,0.0
+112,COPD,0.0
+113,Cardiac Catheterization,0.0
+114,Carpal Tunnel Syndrome,0.0
+115,Cataract,0.0
+116,Celiac Disease,0.0
+117,Cervical Burst Fracture,0.0
+118,Cervical Cancer,0.0
+119,Cervix Anatomy,0.0
+120,Chemotherapy IV,0.0
+121,Chronic Lymphocytic Leukemia,0.0
+122,Chronic Myeloid Leukemia,0.0
+123,Colon,0.0
+124,Colon Cancer,0.0
+125,Colon Polyps,0.0
+126,Colonoscopy,0.0
+127,Colorectal Cancer,0.0
+128,Comminuted Fracture,0.0
+129,Common Cold,0.0
+130,Concussion: Brain Injury,0.0
+131,Concussion: Transected Neuron,0.0
+132,Contact Dermatitis,0.0
+133,Coronary Artery Bypass Grafting (CABG),0.0
+134,Coronary Artery Disease,0.0
+135,Critical Limb Ischemia,0.0
+136,Crohn's Disease,0.0
+137,Cushing's Syndrome,0.0
+138,Cystic Fibrosis,0.0
+139,Deep Vein Thrombosis,0.0
+140,Depression: Brain Activity,0.0
+141,Diabetes Type 1 Glucose Absorption,0.0
+142,Diabetes Type 1 Insulin Release,0.0
+143,Diabetes Type 2 Glucose Transport,0.0
+144,Diabetic Foot Complications,0.0
+145,Diabetic Nerve Problem,0.0
+146,Diabetic Retinopathy,0.0
+147,Dialysis Vascular Access,0.0
+148,Diverticulitis,0.0
+149,Diverticulosis,0.0
+150,Dry Eye,0.0
+151,Dry Macular Degeneration,0.0
+152,Dry Skin,0.0
+153,Ear,0.0
+154,Eczema,0.0
+155,Elbow,0.0
+156,Endometrial Cancer,0.0
+157,Endometriosis,0.0
+158,Endoscopy,0.0
+159,Enlarged Parathyroid Gland,0.0
+160,Epilepsy,0.0
+161,Esophageal Cancer,0.0
+162,Esophagus,0.0
+163,External Beam Radiation,0.0
+164,Eye,0.0
+165,Food Allergy,0.0
+166,Foot,0.0
+167,Fusiform Aneurysm,0.0
+168,GERD,0.0
+169,Gallbladder Anatomy,0.0
+170,Gallstone Pancreatitis,0.0
+171,Gallstones,0.0
+172,Gastric Outlet Obstruction,0.0
+173,Gastrointestinal Cancers,0.0
+174,Glaucoma,0.0
+175,HIV Life Cycle,0.0
+176,HIV/AIDS,0.0
+177,HPV,0.0
+178,Haglund's Deformity,0.0
+179,Hand,0.0
+180,Heart,0.0
+181,Heart Attack,0.0
+182,Heart Failure,0.0
+183,Hemophilia,0.0
+184,Hemorrhoids,0.0
+185,Hepatitis,0.0
+186,Hepatitis C,0.0
+187,Hepatocellular Carcinoma,0.0
+188,High Blood Pressure,0.0
+189,Hodgkin's Lymphoma,0.0
+190,Hypercholesterolemia,0.0
+191,Hyperparathyroidism,0.0
+192,Hypoglycemia,0.0
+193,Hypoparathyroidism,0.0
+194,IUD Placement,0.0
+195,Immunotherapy,0.0
+196,Implantable Port,0.0
+197,Influenza,0.0
+198,Inguinal Hernia: Indirect,0.0
+199,Inner Ear Infection,0.0
+200,Insulin and Glucose,0.0
+201,Irritable Bowel Syndrome,0.0
+202,Kidney,0.0
+203,Kidney Cancer,0.0
+204,Kidney Failure,0.0
+205,Kidney Stone,0.0
+206,Kidney Stones,0.0
+207,Knee,0.0
+208,Kyphosis,0.0
+209,Leg,0.0
+210,Leukemia,0.0
+211,Leukopenia,0.0
+212,Lewy Body Dementia,0.0
+213,Liver,0.0
+214,Liver Cancer,0.0
+215,Liver Cirrhosis,0.0
+216,Low Testosterone,0.0
+217,Lung,0.0
+218,Lung Cancer,0.0
+219,Lupus,0.0
+220,Lyme Disease,0.0
+221,Lymph Node Cross Section,0.0
+222,Lymph Nodes around Uterus,0.0
+223,Lymphatic System,0.0
+224,Lymphedema,0.0
+225,MRSA,0.0
+226,Malar Rash on Face,0.0
+227,Mammography,0.0
+228,Mastectomy,0.0
+229,McDonald's Criteria,0.0
+230,Melanoma,0.0
+231,Melanoma: Tissue,0.0
+232,Menopause,0.0
+233,Migraine,0.0
+234,Mitral Valve Regurgitation,0.0
+235,Mohs Surgery,0.0
+236,Mole Mapping,0.0
+237,Multiple Myeloma,0.0
+238,Multiple Sclerosis,0.0
+239,Myelodysplastic Syndrome,0.0
+240,Myeloma,0.0
+241,Myocardial Infarction,0.0
+242,Myocardial Ischemia,0.0
+243,Neck,0.0
+244,Non Hodgkins Lymphoma,0.0
+245,Non-Small Cell Lung Cancer,0.0
+246,Odontoid Fracture,0.0
+247,Oral Cancer,0.0
+248,Oral Herpes,0.0
+249,Osteoarthritis,0.0
+250,Osteoporosis,0.0
+251,Outer Ear Infection,0.0
+252,Ovarian Cancer,0.0
+253,PCOS,0.0
+254,Pancreas Anatomy,0.0
+255,Pancreatic Bile Duct,0.0
+256,Pancreatic Cancer,0.0
+257,Parkinsons Disease,0.0
+258,Pelvis,0.0
+259,Peptic Ulcer Disease,0.0
+260,Pericardial Disease,0.0
+261,Peripheral Anemia,0.0
+262,Peripheral Artery Disease,0.0
+263,Pertussis,0.0
+264,Pharyngitis,0.0
+265,Pneumonia,0.0
+266,Pregnancy,0.0
+267,Prostate Anatomy Tour,0.0
+268,Prostate Cancer,0.0
+269,Psoriasis,0.0
+270,Psoriatic Arthritis,0.0
+271,Pulmonary Edema,0.0
+272,Pulmonary Hypertension,0.0
+273,Raynaud's Disease,0.0
+274,Rectocele,0.0
+275,Renal Cell Carcinoma,0.0
+276,Reproductive,0.0
+277,Reproductive System,0.0
+278,Rheumatoid Arthritis,0.0
+279,Ringworm: Tinea Pedis,0.0
+280,Rosacea,0.0
+281,Saccular Aneurysm,0.0
+282,Scoliosis,0.0
+283,Sebaceous Cyst,0.0
+284,Shingles,0.0
+285,Shoulder,0.0
+286,Sickle Cell Anemia,0.0
+287,Sinus,0.0
+288,Sinusitis,0.0
+289,Skin,0.0
+290,Small Cell Lung Cancer,0.0
+291,Smokers Lung,0.0
+292,Spine,0.0
+293,Squamous Cell Cancer Of The Head And Neck,0.0
+294,Stable Fracture,0.0
+295,Stinging Insect Allergy,0.0
+296,Stomach,0.0
+297,Stomach Cancer,0.0
+298,Stomach Cross Section,0.0
+299,Strep Throat,0.0
+300,Stroke,0.0
+301,Stye,0.0
+302,Systems,0.0
+303,Teeth,0.0
+304,Testicular Cancer,0.0
+305,Thalassemia,0.0
+306,Thyroid Cancer,0.0
+307,Thyroid Nodules,0.0
+308,Torn ACL,0.0
+309,Torn Medial Meniscus,0.0
+310,Torn Rotator Cuff,0.0
+311,Tracheoesophageal Fistula,0.0
+312,Tuberculosis,0.0
+313,Type 2 Diabetes - Glucose Absorption,0.0
+314,Ulcerative Colitis,0.0
+315,Umbilical Ventral Hernia,0.0
+316,Urinary Incontinence,0.0
+317,Urinary System,0.0
+318,Urinary Tract Infection,0.0
+319,Uterine Fibroids,0.0
+320,Uterus,0.0
+321,Vaginal Birth,0.0
+322,Varicose Veins,0.0
+323,Ventral Hernia,0.0
+324,Ventricular Fibrillation with Conduction System,0.0
+325,Wagner Classification,0.0
+326,Warts on Skin,0.0
+327,Whiteboard,0.0
+328,Wrist,0.0
