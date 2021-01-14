@@ -55,6 +55,7 @@ https://docs.google.com/document/d/1cxofRfHKKAbO65cbKVgolOmNgUaTMq25VazYVy4vPpI/
 - **Wallboard**: Folder contains all ipynb files and .csv files 
   - **Treasure_Data_Variables**: Folder contains .csv files of activity and wallboard interaction variables created in Treasure data 
   - **JupyterNotebooks**: Folder contains all ipynb files
+    - **EDA_Images** : Contains images of MIA and Non-MIA device counts for categorical variables
     - **Wallboard_dataprep.ipynb** : Contains python code for data clean up and feature engin such as one-hot encoding, normalization, train/test/validation split
     - **Baseline Models.ipynb** : Contains python Code for 5 fold cv and hyperparameter tuned models ( Logistic, SVM, Decision Tree, Random Forest ) 
   - **Modeling Results**: Folder contains saved models (.sav files) and feature importances/co efficients  of the models in (.csv files)
